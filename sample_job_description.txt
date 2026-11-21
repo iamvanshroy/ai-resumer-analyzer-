@@ -1,0 +1,19 @@
+Machine Learning Engineer - Python
+
+About the role
+We are looking for a Machine Learning Engineer to build and deploy prediction models
+for our product. You will work with data scientists and backend engineers.
+
+Requirements
+- 2+ years of experience in a similar role
+- Strong Python programming
+- Hands-on Machine Learning with scikit-learn
+- Data handling with Pandas and NumPy
+- Good knowledge of SQL
+- Version control with Git
+
+Nice to have
+- TensorFlow or PyTorch
+- Docker
+- AWS
+- NLP
